@@ -128,6 +128,7 @@ previous file's last hash.
 
 ## More
 
+- [The slice index and O0](docs/plans/README.md)
 - [The plan, wrkhse/o11y#1](https://github.com/wrkhse/o11y/issues/1):
   decisions, the envelope, the evidence format and open questions
 - [The record envelope](https://github.com/wrkhse/o11y/issues/1#the-record-envelope)

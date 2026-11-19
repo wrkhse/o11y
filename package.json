@@ -1,0 +1,13 @@
+{
+  "name": "o11y-workspace",
+  "private": true,
+  "workspaces": ["packages/o11y"],
+  "scripts": {
+    "format": "prettier --write \"**/*.md\"",
+    "check": "prettier --check \"**/*.md\" && markdownlint-cli2 \"**/*.md\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.16.0",
+    "prettier": "^3.4.2"
+  }
+}
