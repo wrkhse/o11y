@@ -1,6 +1,6 @@
 {
   "name": "@wrkhse/o11y",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-dev",
   "description": "One trace envelope and hash-chained evidence for wrkhse modules",
   "type": "module",
   "exports": {

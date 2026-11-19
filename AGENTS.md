@@ -14,13 +14,11 @@ barn; telemetry drops into a bounded ring when no collector is attached.
 
 ## Layout
 
-| Path | What it holds |
-| --- | --- |
-| `crates/o11y` | the Rust SDK and the `o11y` CLI |
-| `packages/o11y` | the `@wrkhse/o11y` TypeScript package |
-| `schema` | the envelope's JSON Schema |
-| `tests/vectors` | fixtures shared by both languages |
-| `docs/plans` | the slice index and each slice page |
+- `crates/o11y` — the Rust SDK and the `o11y` CLI
+- `packages/o11y` — the `@wrkhse/o11y` TypeScript package
+- `schema` — the envelope's JSON Schema
+- `tests/vectors` — fixtures shared by both languages
+- `docs/plans` — the slice index and each slice page
 
 ## Build and gate
 
